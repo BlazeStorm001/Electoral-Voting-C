@@ -1,0 +1,4 @@
+
+      Symbol          Name         Party         Votes
+           a          can1          AIDM             1
+           b             3      Congress             0
